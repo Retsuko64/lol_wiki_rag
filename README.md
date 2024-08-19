@@ -20,3 +20,4 @@
 ### You can run this through Google Colab if you want, and I recommend using the T4 GPU or any cuda-related device.
 
 ### I learned by watching [Rishab Kumar](https://github.com/rishabkumar7), he made a Youtube assistant that can answer any questions related to the video of interest.
+### Dataset source: https://huggingface.co/datasets/Arconte/league_of_legends_wiki_scrape
